@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "30241eabd65dbcd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fee1363d8b03dc7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "calendar/2021-04-29.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b8163ddfd5d24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0bb654fa69d1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "406cf10c39b089c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e83beae33ca5b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JavaScript",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f0905e52d3bb733",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b7b9e38513b17ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4644e65a29f7063b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2c6609a1ce94e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b49ce3761297af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef602f9b3f801b1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calendar/2021-04-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a948a413eb3f924b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94fc0c35bbc6222e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2fee1363d8b03dc7",
+  "lastOpenFiles": [
+    "calendar/2021-04-29.md",
+    "templates/Untitled.md",
+    "2021-04-29.md",
+    "JavaScript Frameworks.md",
+    "Svelte.md",
+    "react.md",
+    "Vue.md",
+    "Starting a new app with Vue.md",
+    "JavaScript.md",
+    "Star Wars.md"
+  ]
+}
